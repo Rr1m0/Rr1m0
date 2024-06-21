@@ -1,4 +1,4 @@
-Amateur web developer since August 2023. 
+Hi, I'm Rrimo! 
 
 I love learning about web **accessibility** and modern **CSS**.
 
